@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">uber clone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">0lhZFVQg41nHdRXNMqf81Lps3hyAUR5pBNcFxp8k</string>
+    <string name="back4app_client_key">WSzp0Ip5PNHXC0ApjIhdx9ua344jSxH8P0PfMhKc</string>
+    <string name="go">GO !</string>
+    <string name="user">User</string>
+    <string name="driver">Driver</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_rider">RiderActivity</string>
+    <string name="help">help</string>
+    <string name="new_game">new game</string>
+    <string name="button_callAnUber" />
+    <string name="call_an_uber">Call an Uber</string>
+    <string name="LOGOUT">logout</string>
+    <string name="title_activity_driver_location">DriverLocationActivity</string>
+    <string name="accept">Accept Request</string>
+    <string name="status">status</string>
+</resources>
